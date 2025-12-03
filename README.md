@@ -9,3 +9,6 @@ Its a cold day in you're mythical world. You've just hit the jackpot and found l
 Type to cast Spells, and use your Mouse to move your Shield.
 
 ## Photos
+
+<img src="/Screenshots/SpellEvator_1.png"/>
+<img src="/Screenshots/SpellEvator_2.png"/>
